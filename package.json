@@ -1,0 +1,15 @@
+{
+  "name": "qacartpostman",
+  "version": "1.0.0",
+  "description": "to test api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
+  }
+}

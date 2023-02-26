@@ -1,0 +1,152 @@
+{
+  "Courses": [
+    {
+      "id": "1",
+      "title": "ISTQB",
+      "hours": "5"
+    },
+    {
+      "id": "2",
+      "title": "Manual testing",
+      "hours": "7"
+    },
+    {
+      "id": "3",
+      "title": "API testing",
+      "hours": "3"
+    },
+    {
+      "id": "4",
+      "title": "Selenium testing",
+      "hours": "10"
+    },
+    {
+      "title": "cypress",
+      "hours": "4",
+      "id": "AldRSIy"
+    },
+    {
+      "id": "6",
+      "title": "java",
+      "hours": "4"
+    },
+    {
+      "id": "8",
+      "title": "c++",
+      "hours": "4"
+    },
+    {
+      "id": "9",
+      "title": "php",
+      "hours": "4"
+    },
+    {
+      "title": "php",
+      "hours": "4",
+      "id": "q7uemLD"
+    },
+    {
+      "title": "php",
+      "hours": "4",
+      "id": "d3Mpcrd"
+    },
+    {
+      "title": "php",
+      "hours": "4",
+      "id": "9DkEBOL"
+    },
+    {
+      "title": "f",
+      "hours": "7",
+      "id": "0"
+    },
+    {
+      "title": "f",
+      "hours": "7",
+      "id": "Y_2f56N"
+    }
+  ],
+  "Users": [
+    {
+      "id": "1",
+      "name": "esraa",
+      "age": "25"
+    },
+    {
+      "id": "2",
+      "name": "abrar",
+      "age": "27"
+    },
+    {
+      "name": "islam",
+      "id": "3"
+    },
+    {
+      "id": "5",
+      "name": "kirem",
+      "age": "32"
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$MikgGutUqaIjWNz/N6HTteS.aXsqcH8fOcdNfk6tEaNAZCT2tQREi",
+      "id": 1
+    },
+    {
+      "email": "esraashaker@gmail.com",
+      "password": "$2a$10$M1.duuY4.1M/bPNnLtVru.xi5VEfFRkccMhA.de3euBD3/G.M7Cbe",
+      "id": 2
+    },
+    {
+      "email": "esraa@gmail.com",
+      "password": "$2a$10$skbgHcoFPwlfQunfKmM2z.RtgjZUW9tZ6NlUQmRcdoIJ3uJqG.1Ju",
+      "id": 3
+    },
+    {
+      "email": "esraah@gmail.com",
+      "password": "$2a$10$mhgTvehy1HnlOdEWNr9GC.GXmy/ldYMBnJSD1FRO15CbZtRTg5IL.",
+      "id": 4
+    },
+    {
+      "email": "kirm@gmail.com",
+      "password": "$2a$10$JUtVE6akP8QowyVBIQTHiON3x8NUNvwP8N2qAY8drM43MQe7Yqwc.",
+      "id": 5
+    },
+    {
+      "email": "kir@gmail.com",
+      "password": "$2a$10$EswViQppMUjx8hEejB/J/.1t68rH38XGnNSwoU7/z8fNjTj2gTp6i",
+      "id": 6
+    },
+    {
+      "email": "kr@gmail.com",
+      "password": "$2a$10$XrxIstiiD2eiYvnJgToQmuOpyV7Yhq8LOw7vmz2S9ctqH4K0KAn5W",
+      "id": 7
+    },
+    {
+      "email": "k@gmail.com",
+      "password": "$2a$10$X4njRRWTxHfx1FoYMvWc4eKuiR4knRv165s.9pKPHA4tGl/0zDh3q",
+      "id": 8
+    },
+    {
+      "email": "esoo@gmail.com",
+      "password": "$2a$10$Qj86lAUuDUG2QWtpBIWG4OjklvBly.RfcRUCdj1n7MtXLoGvrEeDe",
+      "id": 9
+    },
+    {
+      "email": "eso@gmail.com",
+      "password": "$2a$10$CUvbxkAzwM.PbHjM1tIZUeqZ8SOMQJTWY5Yz/Xk96DRo2c8vvfwyq",
+      "id": 10
+    },
+    {
+      "email": "hossam@gmail.com",
+      "password": "$2a$10$6E5.lNhEmHPg.vtOJq81ruCh4SAsggBexMUiBwgQABuNYt/B6Y5Ye",
+      "id": 11
+    },
+    {
+      "email": "islam@gmail.com",
+      "password": "$2a$10$HV1tLpcZAQsId9mGilDtHu4fzD0hHm6WKBb776RgRUjStZY9K6EiO",
+      "id": 12
+    }
+  ]
+}
